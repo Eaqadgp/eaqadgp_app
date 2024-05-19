@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95342038982",
+    "project_id": "eaqad-app",
+    "storage_bucket": "eaqad-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95342038982:android:7fd403153c9bc3f1f32cc7",
+        "android_client_info": {
+          "package_name": "com.example.eaqad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLa0pMz7BSbx5sPYSWsCs7drCJ-zvjKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
